@@ -1,5 +1,5 @@
 cask "scd" do
-  version "2.6.0"
+  version "2.6.1"
   sha256 "9880eed43f686f0d03e76cdaa3dfa48d2644b64bc0479f10a7e8e767d39b34b5"
 
   depends_on formula: "cmake"
