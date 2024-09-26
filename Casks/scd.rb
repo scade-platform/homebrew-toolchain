@@ -9,4 +9,6 @@ cask "scd" do
   name "scd"
   desc "Scade Build Tool"
   homepage "https://www.swift-android.com"
+
+  binary "scd/bin/scd"
 end
