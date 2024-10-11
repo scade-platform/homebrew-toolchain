@@ -1,6 +1,6 @@
 cask "scd" do
   version "2.7.0"
-  sha256 "c979d64c6823b416ce177dbf91c692bf307ee8d32641de2dd653f753325b6989"
+  sha256 "580e80cbad4c7cad6344b4023e419a72cb36cb4de32c1b513e7dac9b01a304ea"
 
   depends_on formula: "cmake"
   depends_on formula: "gradle@7"
