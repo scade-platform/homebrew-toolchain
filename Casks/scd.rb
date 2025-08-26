@@ -1,11 +1,11 @@
 cask "scd" do
-  version "2.12.0"
-  sha256 "7bfccf9be4a7e742b6ca5ae16fcdf81778bf76c7bb64985bd9746a57b3533ba5"
+  version "2.13.0"
+  sha256 "63c6ac6201511f4b9b3061f09ca5aee27c81585ec7bc63148390a627ebf94aa3"
 
   depends_on formula: "cmake"
   depends_on formula: "gradle"
 
-  url "https://github.com/scade-platform/scade-build-tool/releases/download/2.12.0/scd-2.12.0.tar.bz2"
+  url "https://github.com/scade-platform/scade-build-tool/releases/download/2.13.0/scd-2.13.0.tar.bz2"
   name "scd"
   desc "Scade Build Tool"
   homepage "https://www.swift-android.com"
